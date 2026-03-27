@@ -1,0 +1,25 @@
+{
+  "name": "cs491-demo-repository1",
+  "version": "1.0.0",
+  "description": "Repository to demo the basics of Git and GitHub to the NJIT Capstone population",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EJ8127/CS491-Demo-Repository1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EJ8127/CS491-Demo-Repository1/issues"
+  },
+  "homepage": "https://github.com/EJ8127/CS491-Demo-Repository1#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.1.0",
+    "globals": "^17.4.0"
+  }
+}
